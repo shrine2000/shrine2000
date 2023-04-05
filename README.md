@@ -1,4 +1,4 @@
-- 📝 I regularly write articles on [https://medium.com/@shrine02sabu](https://medium.com/@shrine02sabu)
+- 📝 I occasionally write articles on [https://medium.com/@shrine02sabu](https://medium.com/@shrine02sabu)
 
 - 📫 How to reach me **shrine02sabu@protonmail.com**
 
