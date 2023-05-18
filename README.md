@@ -1,6 +1,6 @@
 - 📝 I occasionally write articles on [Medium](https://medium.com/@shrine02sabu)
 
-- 📫 How to reach me **shrine02sabu@protonmail.com**
+- 📫 How to reach me **shrine02sabu[at]protonmail[dot]com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
