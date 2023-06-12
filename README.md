@@ -2,6 +2,7 @@
   
 
 - 📝 I occasionally write articles on [Medium](https://medium.com/@shrine02sabu)
+     - [How to reach 1 million downloads for your app with an affordable budget](https://medium.com/@shrine02sabu/how-to-reach-1-million-downloads-for-your-app-with-an-affordable-budget-1937e0a37741)
 
   
 
