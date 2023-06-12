@@ -5,7 +5,7 @@
 
   
 
-- 📫 How to reach me **shrine02sabu[at]protonmail[dot]com**
+- 📫 Reach me at **shrine02sabu[at]protonmail[dot]com**
 
   
 
