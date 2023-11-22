@@ -12,8 +12,10 @@
 
 **Recent Projects**
 
-  
-
+- [**Tic Tac Toe**](https://github.com/shrine2000/tictactoe-lld): LLD for Tic Tac Toe using OOP principles.
+    
+- [**QuickStart**](https://github.com/shrine2000/QuickStart): CLI tool built using the Go programming language to instantly make a new project with git.
+ 
 - [**CRUD API**](https://github.com/shrine2000/go-crud): Built using the Go programming language and the Gin web framework.
 
 - [**PromptGPT**](https://github.com/shrine2000/PromptGPT): A Chrome Extension designed for use with the OpenAI GPT language model, specifically the ChatGPT interface. It allows users to generate responses quickly and easily using pre-written responses.
