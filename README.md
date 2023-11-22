@@ -6,11 +6,13 @@
 
   
 
-- 📫 Reach me at **shrine02sabu[at]protonmail[dot]com**
+- 📫 Reach me at **shrine02sabu[at]protonmail[dot]com** 
 
   
 
 **Recent Projects**
+
+- [**Design Patterns**](https://github.com/shrine2000/design-patterns): Implementation of commonly used design patterns.
 
 - [**Tic Tac Toe**](https://github.com/shrine2000/tictactoe-lld): LLD for Tic Tac Toe using OOP principles.
     
