@@ -15,6 +15,8 @@
 - [**Design Patterns**](https://github.com/shrine2000/design-patterns): Implementation of commonly used design patterns.
 
 - [**Tic Tac Toe**](https://github.com/shrine2000/tictactoe-lld): LLD for Tic Tac Toe using OOP principles.
+
+- [**Parking Lot**](https://github.com/shrine2000/Parking-Lot): LLD using OOP principles.
     
 - [**QuickStart**](https://github.com/shrine2000/QS): CLI tool built using the Go programming language to instantly make a new project with git.
  
