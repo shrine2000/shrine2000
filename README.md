@@ -18,7 +18,7 @@
 
 - [**Parking Lot**](https://github.com/shrine2000/Parking-Lot): LLD using OOP principles.
     
-- [**QuickStart**](https://github.com/shrine2000/QS): CLI tool built using the Go programming language to instantly make a new project with git.
+- [**QuickStart**](https://github.com/shrine2000/QS): CLI tool built using the instantly make a new project with git. [Python](https://github.com/shrine2000/QuickStart) [Go](https://github.com/shrine2000/QS) 
  
 - [**CRUD API**](https://github.com/shrine2000/go-crud): Built using the Go programming language and the Gin web framework.
 
