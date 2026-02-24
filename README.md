@@ -1,64 +1,31 @@
+## What I Work On
 
-  
+- Backend APIs, performance optimization, and observability (OpenTelemetry, SigNoz, Sentry)
+- Document automation and data extraction using OpenAI Vision and AWS Textract
+- CI/CD pipelines, testing infrastructure, and code quality tooling
+- Previously built Android apps with 1.8M+ combined downloads
 
-- 📝 I occasionally write articles on [Medium](https://medium.com/@shrine02sabu)
-     - [How to reach 1 million downloads for your app with an affordable budget](https://medium.com/@shrine02sabu/how-to-reach-1-million-downloads-for-your-app-with-an-affordable-budget-1937e0a37741)
+## Tech Stack
 
-  
+**Languages:** Python, SQL, Kotlin  
+**Frameworks:** Django, Django REST Framework, Celery  
+**Databases:** PostgreSQL, Redis  
+**Infrastructure:** Docker, AWS (ECS, RDS, S3, Secrets Manager, Textract, ECR), Gunicorn, GitHub Actions  
+**Observability:** OpenTelemetry, SigNoz, Sentry, Datadog, Mixpanel  
+**Tools:** Git, Poetry, Pytest, Postman, Pre-commit, Ruff, MyPy, Bandit  
 
-- 📫 Reach me at **shrine02sabu[at]protonmail[dot]com** 
+## Projects
 
-  
+- [**Hotel Reservation System**](https://github.com/shrine2000/hotel-reservation-system) — Production-grade booking platform with JWT auth, RBAC, Redis caching, Celery workers, rate limiting, and soft deletes. Django, DRF, PostgreSQL, Redis, Pytest.
+- [**Android Apps**](https://github.com/shrine2000) — Built 4 apps with 1.8M+ downloads and 4.6 rating. One acquired after 1.5M+ installs and 100K+ DAUs. Kotlin, Firebase, AdMob, Google Billing.
+- [**Design Patterns**](https://github.com/shrine2000/design-patterns) — Implementation of commonly used design patterns.
+- [**QuickStart**](https://github.com/shrine2000/QS) — CLI tool to scaffold new projects with Git. Available in [Python](https://github.com/shrine2000/QuickStart) and [Go](https://github.com/shrine2000/QS).
 
-**Recent Projects**
+## Writing
 
-- [**Design Patterns**](https://github.com/shrine2000/design-patterns): Implementation of commonly used design patterns.
+- [How to reach 1 million downloads for your app with an affordable budget](https://medium.com/@shrine02sabu/how-to-reach-1-million-downloads-for-your-app-with-an-affordable-budget-1937e0a37741)
 
-- [**Tic Tac Toe**](https://github.com/shrine2000/tictactoe-lld): LLD for Tic Tac Toe using OOP principles.
+## Contact
 
-- [**Parking Lot**](https://github.com/shrine2000/Parking-Lot): LLD using OOP principles.
-    
-- [**QuickStart**](https://github.com/shrine2000/QS): CLI tool built using the instantly make a new project with git. [Python](https://github.com/shrine2000/QuickStart) [Go](https://github.com/shrine2000/QS) 
- 
-- [**CRUD API**](https://github.com/shrine2000/go-crud): Built using the Go programming language and the Gin web framework.
-
-- [**PromptGPT**](https://github.com/shrine2000/PromptGPT): A Chrome Extension designed for use with the OpenAI GPT language model, specifically the ChatGPT interface. It allows users to generate responses quickly and easily using pre-written responses.
-
-- [**Contact Management App**](https://github.com/shrine2000/Express-CRUD): Developed using Express, MongoDB, and Mongoose. It covers topics including creating an Express server, handling errors, and implementing user authentication and authorization using JSON Web Tokens (JWT).
-
-- [**Battery Management App (Native Android)**](https://github.com/shrine2000/Battery-Core): Displays battery health, battery usage, temperature information, and measures battery capacity (mAh).
-
-- [**Weather App (Native Android)**](https://github.com/shrine2000/WeatherAppMVVM): Retrieves weather information from the OpenWeatherMap API. It showcases concepts such as MVVM, RxJava, and Kotlin.
-
-  
-  
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrine-sabu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9846650/mad-lad)
-
-  
-
-# 💻 Tech Stack:
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=shrine2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shrine2000&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrine2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-  
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=shrine2000&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=shrine2000&icon=0&color=0)](https://visitcount.itsvg.in)
+- **Email:** shrine02sabu[at]protonmail[dot]com  
+- [**LinkedIn**](https://linkedin.com/in/shrine-sabu) | [**Stack Overflow**](https://stackoverflow.com/users/9846650/mad-lad)
